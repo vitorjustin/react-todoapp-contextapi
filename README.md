@@ -4,15 +4,15 @@ React To-Do App using the Context API for learning purposes.
 
 ## User Stories
 
-- [] User can create one to-do at a time.
+- [ ] User can create one to-do at a time.
 
-- [] User can mark a to-do as done.
+- [ ] User can mark a to-do as done.
 
-- [] User can delete a to-do.
+- [ ] User can delete a to-do.
 
-- [] User can clear all to-dos marked as done.
+- [ ] User can clear all to-dos marked as done.
 
-- [] User can exit page and comeback later to see all to-dos.
+- [ ] User can exit page and comeback later to see all to-dos.
 
 
 ## UX References
